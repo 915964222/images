@@ -1,5 +1,5 @@
-# images
-图床
+
+
 # 🖼️ 手把手搭建 PicGo + GitHub + jsDelivr 免费图床
 
 ![教程](https://img.shields.io/badge/教程-图床搭建-brightgreen) ![难度](https://img.shields.io/badge/难度-⭐⭐-blue) ![耗时](https://img.shields.io/badge/耗时-15分钟-orange)
